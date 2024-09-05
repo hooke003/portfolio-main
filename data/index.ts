@@ -15,7 +15,6 @@ export const gridItems = [
     titleClassName: "justify-end",
     img: "/b1.svg",
     spareImg: "",
-    size: "large",
   },
   {
     id: 2,
@@ -26,7 +25,6 @@ export const gridItems = [
     titleClassName: "justify-start",
     img: "",
     spareImg: "",
-    size: "medium",
   },
   {
     id: 3,
@@ -37,7 +35,6 @@ export const gridItems = [
     titleClassName: "justify-center",
     img: "",
     spareImg: "",
-    size: "medium",
   },
   {
     id: 4,
@@ -48,8 +45,8 @@ export const gridItems = [
     titleClassName: "justify-start",
     img: "/grid.svg",
     spareImg: "/b4.svg",
-    size: "small",
   },
+
   {
     id: 5,
     title: "Currently building a JS Animation library",
@@ -59,7 +56,6 @@ export const gridItems = [
     titleClassName: "justify-center md:justify-start lg:justify-center",
     img: "/b5.svg",
     spareImg: "/grid.svg",
-    size: "medium",
   },
   {
     id: 6,
@@ -70,7 +66,6 @@ export const gridItems = [
     titleClassName: "justify-center md:max-w-full max-w-60 text-center",
     img: "",
     spareImg: "",
-    size: "small",
   },
 ];
 
